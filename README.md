@@ -103,9 +103,6 @@ Tasks are displayed in three columns:
 
 6. **Open a pull request**.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
